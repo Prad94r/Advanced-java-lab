@@ -1,6 +1,6 @@
 class eulerIsGreat {
     public static int fact(int n) {
-        if(n == 0){
+        if(n == 1){
             return 1 ;
         }
 
@@ -9,9 +9,7 @@ class eulerIsGreat {
 
     public static double eNumber(double n) {
 
-
-        if( n == 0) {
-
+        if( n == 1) {
             return 1 ;
         }
 
